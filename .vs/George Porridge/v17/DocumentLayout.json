@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\relam\\source\\repos\\George Porridge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5196D8-AD8A-40F6-B315-C71060EBD775}|George Porridge\\George Porridge.vcxproj|C:\\Users\\relam\\source\\repos\\George Porridge\\George Porridge\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DF5196D8-AD8A-40F6-B315-C71060EBD775}|George Porridge\\George Porridge.vcxproj|solutionrelative:George Porridge\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5196D8-AD8A-40F6-B315-C71060EBD775}|George Porridge\\George Porridge.vcxproj|C:\\Users\\relam\\source\\repos\\George Porridge\\George Porridge\\include\\header.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DF5196D8-AD8A-40F6-B315-C71060EBD775}|George Porridge\\George Porridge.vcxproj|solutionrelative:George Porridge\\include\\header.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5196D8-AD8A-40F6-B315-C71060EBD775}|George Porridge\\George Porridge.vcxproj|C:\\Users\\relam\\source\\repos\\George Porridge\\George Porridge\\include\\header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DF5196D8-AD8A-40F6-B315-C71060EBD775}|George Porridge\\George Porridge.vcxproj|solutionrelative:George Porridge\\include\\header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "header.cpp",
+              "DocumentMoniker": "C:\\Users\\relam\\source\\repos\\George Porridge\\George Porridge\\include\\header.cpp",
+              "RelativeDocumentMoniker": "George Porridge\\include\\header.cpp",
+              "ToolTip": "C:\\Users\\relam\\source\\repos\\George Porridge\\George Porridge\\include\\header.cpp",
+              "RelativeToolTip": "George Porridge\\include\\header.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAvwCsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-27T16:52:56.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\relam\\source\\repos\\George Porridge\\George Porridge\\src\\main.cpp",
+              "RelativeDocumentMoniker": "George Porridge\\src\\main.cpp",
+              "ToolTip": "C:\\Users\\relam\\source\\repos\\George Porridge\\George Porridge\\src\\main.cpp",
+              "RelativeToolTip": "George Porridge\\src\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-27T16:16:10.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "header.h",
+              "DocumentMoniker": "C:\\Users\\relam\\source\\repos\\George Porridge\\George Porridge\\include\\header.h",
+              "RelativeDocumentMoniker": "George Porridge\\include\\header.h",
+              "ToolTip": "C:\\Users\\relam\\source\\repos\\George Porridge\\George Porridge\\include\\header.h",
+              "RelativeToolTip": "George Porridge\\include\\header.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-27T16:16:03.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
