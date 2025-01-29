@@ -22,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "header.cpp",
-              "DocumentMoniker": "C:\\Users\\relam\\source\\repos\\George Porridge\\George Porridge\\include\\header.cpp",
-              "RelativeDocumentMoniker": "George Porridge\\include\\header.cpp",
-              "ToolTip": "C:\\Users\\relam\\source\\repos\\George Porridge\\George Porridge\\include\\header.cpp",
-              "RelativeToolTip": "George Porridge\\include\\header.cpp",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAvwCsAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-27T16:52:56.68Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -52,6 +39,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "header.cpp",
+              "DocumentMoniker": "C:\\Users\\relam\\source\\repos\\George Porridge\\George Porridge\\include\\header.cpp",
+              "RelativeDocumentMoniker": "George Porridge\\include\\header.cpp",
+              "ToolTip": "C:\\Users\\relam\\source\\repos\\George Porridge\\George Porridge\\include\\header.cpp",
+              "RelativeToolTip": "George Porridge\\include\\header.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAvwCsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-27T16:52:56.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "header.h",
               "DocumentMoniker": "C:\\Users\\relam\\source\\repos\\George Porridge\\George Porridge\\include\\header.h",
@@ -60,8 +60,7 @@
               "RelativeToolTip": "George Porridge\\include\\header.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-27T16:16:03.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T16:16:03.092Z"
             }
           ]
         }
